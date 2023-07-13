@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "62b75e0ffe385110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           }
         ]
@@ -138,9 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2043d8f63af01330",
+  "active": "62b75e0ffe385110",
   "lastOpenFiles": [
     "论文提纲.md",
+    "Readme.md",
     "Mathematical Concepts/Explain of the definition.md",
     "Mathematical Concepts/DDPM数据生成过程概率分布.md",
     "Fig/DDPM.jpg",
@@ -156,7 +174,6 @@
     "GNN",
     "LLM/Fine-tune",
     "LLM/MultiModal",
-    "未命名.md",
     "LLM",
     "Three laws of motion.md",
     "Test.md",
