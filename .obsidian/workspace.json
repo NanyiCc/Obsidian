@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "637558e46192c636",
+    "type": "split",
+    "children": [
+      {
+        "id": "237bcbdd14cb0640",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf4bc5ea258584c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b1ae12c404e04ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c9fae0d0e7c9d3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2043d8f63af01330",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae989cfd17fbfc98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02bc386ca99b0c17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d809bbfcc530daee",
+    "type": "split",
+    "children": [
+      {
+        "id": "28f6d25ae7f843bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a491600c53e6276",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "690ea3c7a789a44b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfa4a72a4df412ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc4303fd17f1941c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cf4bc5ea258584c0",
+  "lastOpenFiles": [
+    "论文提纲.md",
+    "Mathematical Concepts/Explain of the definition.md",
+    "Mathematical Concepts/DDPM数据生成过程概率分布.md",
+    "Fig/DDPM.jpg",
+    "GM/Diffusion Model/DDPM.md",
+    "Mathematical Concepts/Latent Variable Models.md",
+    "2023-07-11.md",
+    "Fig",
+    "Mathematical Concepts/Gaussian transitions.md",
+    "Mathematical Concepts",
+    "GM/GAN",
+    "GM/Diffusion Model",
+    "GM",
+    "GNN",
+    "LLM/Fine-tune",
+    "LLM/MultiModal",
+    "未命名.md",
+    "LLM",
+    "Three laws of motion.md",
+    "Test.md",
+    "Law of Inertia.md"
+  ]
+}
