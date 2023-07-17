@@ -80,11 +80,13 @@ autoregressive
 aq
 auYn
 ax
+apple
 Background
 Bc
 BG
 Bp
 BQs
+BERT
 latent
 llR
 lr
@@ -92,11 +94,13 @@ ld
 lL
 lO
 lZ
+love
 Variable
 Vu
 Vz
 Vy
 Vp
+Vec
 Models
 Muf
 MG
@@ -120,6 +124,8 @@ GT
 GF
 Gqs
 Gwm
+GloVe
+GPT
 transitions
 tE
 tU
@@ -127,6 +133,8 @@ tW
 tv
 tm
 tx
+tokenization
+tokens
 JFIF
 JHS
 Ju
@@ -184,6 +192,7 @@ qo
 qK
 qqj
 qiow
+queen
 sX
 sk
 sn
@@ -192,6 +201,7 @@ sV
 sEy
 sFz
 sI
+space
 xK
 xw
 xoIk
@@ -236,6 +246,8 @@ TV
 TI
 Tl
 TP
+Tokenizer
+Transformer
 kc
 ktm
 kYq
@@ -249,6 +261,7 @@ kpv
 kzv
 kFY
 ki
+king
 KI
 Kg
 KF
@@ -318,6 +331,7 @@ Es
 EyG
 Ee
 Ey
+Embedding
 fb
 fu
 fK
@@ -364,6 +378,7 @@ ei
 eq
 ewt
 eP
+embedding
 QE
 QH
 QG
@@ -422,12 +437,14 @@ Wfd
 WGbo
 Wc
 WZ
+Word
 Ns
 NR
 NO
 NlU
 NWv
 NA
+NLP
 ßA
 Sd
 SH

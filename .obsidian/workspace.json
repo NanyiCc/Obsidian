@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Related Concepts/The Difference Between Embedding and Tokenizer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Related Concepts/The Difference Between Embedding and Tokenizer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Related Concepts/The Difference Between Embedding and Tokenizer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Related Concepts/The Difference Between Embedding and Tokenizer.md"
               }
             }
           }
@@ -157,17 +157,18 @@
   },
   "active": "62b75e0ffe385110",
   "lastOpenFiles": [
-    "论文提纲.md",
+    "Related Concepts/Gaussian transitions.md",
+    "Related Concepts/Latent Variable Models.md",
+    "Related Concepts/The Difference Between Embedding and Tokenizer.md",
     "Readme.md",
-    "Mathematical Concepts/Explain of the definition.md",
-    "Mathematical Concepts/DDPM数据生成过程概率分布.md",
+    "论文提纲.md",
+    "Related Concepts/Explain of the definition.md",
+    "Related Concepts/DDPM数据生成过程概率分布.md",
     "Fig/DDPM.jpg",
     "GM/Diffusion Model/DDPM.md",
-    "Mathematical Concepts/Latent Variable Models.md",
     "2023-07-11.md",
     "Fig",
-    "Mathematical Concepts/Gaussian transitions.md",
-    "Mathematical Concepts",
+    "Related Concepts",
     "GM/GAN",
     "GM/Diffusion Model",
     "GM",
