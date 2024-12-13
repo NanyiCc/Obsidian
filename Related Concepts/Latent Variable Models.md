@@ -6,3 +6,5 @@
 
 这种类型的模型在很多应用中都非常有用，包括图像生成、文本生成、语音合成以及其它许多任务。
 - [[DDPM]]
+
+CUDA_VISIBLE_DEVICES=1,2 python -m vllm.entrypoints.openai.api_server --model /home/chenzan/workSpace/trans/Sakura-14B-Qwen2beta-v0.10pre0/ --tensor-parallel-size 2

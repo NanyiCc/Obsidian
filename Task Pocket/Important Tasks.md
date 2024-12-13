@@ -1,0 +1,32 @@
+#todo
+- [ ] 
+- [ ] 
+- [ ] 
+- [x] SSL数据集配比及训练成本计算 📅 2024-04-14 
+- [x] Prue Sequence slicing and size checking. 📅 2024-04-14 
+- [x] 成本核算 📅 2024-03-06 ✅ 2024-04-09
+- [x] SSL数据集：Pure sequence 10%percent 📅 2024-03-10 ✅ 2024-04-09
+- [x] 模型验证方法 📅 2024-03-06 ✅ 2024-04-09
+- [x] 公开数据集的验证方法 📅 2024-03-06 ✅ 2024-04-09
+- [x] #task SSL statistics 🔺 📅 2024-02-25 ✅ 2024-02-26
+- [x] 制作每种数据集的样本 📅 2024-02-26 ✅ 2024-04-09
+- [x] 将图表插入论文 📅 2024-02-27 ✅ 2024-03-05
+- [x] #task SFT & Benchmarks Generation (10 samples) 🔺 📅 2024-02-25 ✅ 2024-03-05
+- [x] 待测模型 mistralai/Mixtral-8x7B-Instruct-v0.1 📅 2024-02-27 ✅ 2024-03-05
+- [x] 待测模型 mistralai/Mistral-7B-Instruct-v0.2 📅 2024-02-27 ✅ 2024-03-05
+- [x] 待测模型 google/gemma-7b-it 📅 2024-02-27 ✅ 2024-03-05
+- [x] #task Write summery for all the related Work. 📅 2023-07-31 ✅ 2024-02-20
+- [x] #task Make the dataset sample 📅 2023-07-31 ✅ 2023-07-31
+- [x] #task Make a diagram of the dataset 📅 2023-07-31 ✅ 2023-07-31
+- [x] #task Waiting for Claude 2 and Bard API‘s application feedback. 📅 2023-08-20 ✅ 2023-10-20
+- [x] #task Optimize dataset processing flow chats (like the generation process of Graph data). 📅 2023-08-20 ✅ 2024-02-20
+- [x] #task Watch the lessons of Prompt Engineerining. 📅 2023-08-21 ✅ 2023-10-20
+- [x] #task Set up a suitable prompt to generate multiple rounds of question answering data based on multiple papers. 📅 2023-08-22 ✅ 2023-10-20
+- [x] Write a good Cover Letter! ✅ 2024-02-20
+- [x] #task Add a suitable prompt for the paper QA; ✅ 2023-10-21
+- [x] #task Try to use PubMed API to search related paper ✅ 2023-10-21
+- [x] #task Tokenizer the Chinese-English abstract pairs 📅 2023-10-22 ✅ 2023-10-26
+- [x] #task Make a sample dataset 📅 2023-10-22 ✅ 2024-02-20
+- [x] #task Initialize Baichuan13B 📅 2023-10-22 ✅ 2023-10-26
+- [x] #task Build test environment 📅 2023-10-22 ✅ 2023-10-26
+- [x] #task Try the data processing code ✅ 2024-02-20

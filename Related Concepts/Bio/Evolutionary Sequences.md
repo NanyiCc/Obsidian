@@ -1,0 +1,11 @@
+In the context of proteins, "evolutionary sequences" often refers to the set of sequences that have descended from a common ancestral sequence over the course of evolution. By studying these sequences, scientists can learn a great deal about the function, structure, and history of proteins.
+
+When a species evolves, its genetic material, including the genes that code for proteins, undergoes mutations. Some of these mutations alter the protein's amino acid sequence. If these alterations are beneficial, or at least not harmful, they may persist in the population and over time lead to a variety of related protein sequences. 
+
+Often, when bioinformaticians refer to "evolutionary sequences," they're talking about homologous sequences - sequences that share a common ancestry. Homologous sequences can be orthologs (sequences in different species that evolved from a common ancestral sequence by speciation) or paralogs (sequences within a species that evolved by gene duplication).
+
+Multiple sequence alignment (MSA) of homologous proteins, or evolutionary sequences, can reveal conserved regions that are likely to be functionally important. This alignment also helps to build phylogenetic trees that depict the evolutionary relationships between sequences. 
+
+One of the more advanced uses of evolutionary sequences in protein modeling is the extraction of co-evolutionary information. For example, if two residues in a protein are in physical contact, a mutation that changes one residue might be deleterious unless it's accompanied by a compensatory mutation in the other residue. So, these two residues would tend to mutate in a correlated way. By analyzing a large number of evolutionary sequences, this correlated mutation information can be used to infer contact maps and assist in predicting the 3D structure of proteins.
+
+As of my knowledge cutoff in 2021, these approaches are actively used in the field of bioinformatics and structural biology. For the most updated and specific information, I would recommend checking out the latest research in these fields.

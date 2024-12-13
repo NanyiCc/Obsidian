@@ -1,6 +1,5 @@
 {
-  "spellcheckLanguages": [
-    "en"
-  ],
-  "attachmentFolderPath": "Fig"
+  "spellcheckLanguages": null,
+  "attachmentFolderPath": "Fig",
+  "alwaysUpdateLinks": true
 }
