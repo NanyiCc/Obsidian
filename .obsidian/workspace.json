@@ -20,24 +20,36 @@
             }
           },
           {
-            "id": "29ef0bd2f765f2ce",
+            "id": "27cb7142e66d5257",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "edullm paper.md",
+                "file": "草稿.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0302f65414b0f34d",
+            "id": "b47689c0cd723afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "草稿_冲突文件_70735_20240912014932.md",
+                "file": "DT项目/讨论会议20250226.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29ef0bd2f765f2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "edullm paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿_冲突文件_70735_20240912014932.md"
+                "file": "DT项目/讨论会议20250226.md"
               }
             }
           },
@@ -178,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "草稿_冲突文件_70735_20240912014932.md",
+                "file": "DT项目/讨论会议20250226.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "草稿_冲突文件_70735_20240912014932.md",
+                "file": "DT项目/讨论会议20250226.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,14 +223,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "b4c27383d1d2ef80",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,11 +251,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "remotely-save:Remotely Save": false,
-      "spreadsheets:New Spreadsheet": false
+      "spreadsheets:New Spreadsheet": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2043d8f63af01330",
+  "active": "b47689c0cd723afc",
   "lastOpenFiles": [
+    "DT项目/讨论会议20250226.md.baiduyun.uploading.cfg",
+    "DT项目/未命名.md.baiduyun.uploading.cfg",
+    "草稿.md",
+    "DT项目/讨论会议20250226.md",
+    "DT项目",
+    "材料准备.md",
+    "草稿_冲突文件_70735_20240912014932.md",
     "AutoML项目计划书.md",
     "Excalidraw/Drawing 2024-09-15 20.59.24.excalidraw.md",
     "edullm paper.md",
@@ -248,7 +275,6 @@
     "Excalidraw/Drawing 2024-05-27 23.22.06.excalidraw.md",
     "Excalidraw/Drawing 2024-05-14 18.22.07.excalidraw.md",
     "Excalidraw/Model Structure.excalidraw.md",
-    "草稿.md",
     "项目计划/科研大模型.md",
     "Todo List.md",
     "论文阅读问题.md",
@@ -257,13 +283,10 @@
     "论文灵感.md.baiduyun.uploading.cfg",
     "TourSynbio Protein LLM.md",
     "TourSynbio Protein LLM.md.baiduyun.uploading.cfg",
-    "材料准备.md",
     "材料准备.md.baiduyun.uploading.cfg",
     "Related Concepts/Latent Variable Models.md",
     "Excalidraw/Drawing 2024-05-14 18.22.07.excalidraw.md.baiduyun.uploading.cfg",
     "Task Pocket/Tasks_冲突文件_chenz_20240515124751.md.baiduyun.uploading.cfg",
-    "Paper/草稿.md.baiduyun.uploading.cfg",
-    "Task Pocket/Tasks(1).md.baiduyun.downloading.cfg",
     "Task Pocket/Tasks_冲突文件_chenz_20240515124751.md",
     "项目计划/未命名.md",
     "Brief Reading Notes/泛读笔记 Structure-aware Protein Self-supervised Learning.md",
@@ -271,8 +294,6 @@
     "Brief Reading Notes/泛读笔记 图知识蒸馏综述-算法分类与应用分析.md",
     "LLM/Fine-tune/Lora.md",
     "Paper/Related Works.md",
-    "LLM/Transformer - The Beginning of Everything.md",
-    "Task Pocket/Important Tasks.md",
     "Fig/Pasted image 20230922140443.png",
     "Fig/Pasted image 20230925193356.png",
     "Fig/Pasted image 20230730140812.png",
